@@ -1,0 +1,33 @@
+Analyzing 5 files:
+SS.S.
+
+********** ./SonarDemo/AppDelegate.swift **********
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:17:101: warning: [max-line-length] Line is over maximum character limit (145/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:24:101: warning: [max-line-length] Line is over maximum character limit (179/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:27:101: warning: [max-line-length] Line is over maximum character limit (108/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:30:91: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:30:101: warning: [max-line-length] Line is over maximum character limit (112/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:32:101: warning: [max-line-length] Line is over maximum character limit (157/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:33:101: warning: [max-line-length] Line is over maximum character limit (120/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:49:101: warning: [max-line-length] Line is over maximum character limit (199/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:50:17: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:54:101: warning: [max-line-length] Line is over maximum character limit (123/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:67:21: warning: [parenthesis-whitespace] Parentheses should not be preceded by whitespace
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:74:101: warning: [max-line-length] Line is over maximum character limit (199/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:82: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./SonarDemo/ContentView.swift **********
+./SonarDemo/ContentView.swift could not be parsed successfully, skipping...
+
+********** ./SonarDemo/SceneDelegate.swift **********
+./SonarDemo/SceneDelegate.swift could not be parsed successfully, skipping...
+
+********** ./SonarDemoTests/SonarDemoTests.swift **********
+/Users/saleh/Desktop/SonarDemo/SonarDemoTests/SonarDemoTests.swift:15:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/saleh/Desktop/SonarDemo/SonarDemoTests/SonarDemoTests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+********** ./SonarDemoUITests/SonarDemoUITests.swift **********
+./SonarDemoUITests/SonarDemoUITests.swift could not be parsed successfully, skipping...
+
+Analyzed 2 files, skipped 3 files, and detected 15 violations (0 errors, 15 warnings).
+
